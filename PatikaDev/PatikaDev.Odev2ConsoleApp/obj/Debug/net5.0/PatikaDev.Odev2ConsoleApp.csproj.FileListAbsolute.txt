@@ -1,0 +1,16 @@
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.exe
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.deps.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.runtimeconfig.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.runtimeconfig.dev.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\bin\Debug\net5.0\PatikaDev.Odev2ConsoleApp.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.AssemblyInfo.cs
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\refint\PatikaDev.Odev2ConsoleApp.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\PatikaDev.Odev2ConsoleApp.genruntimeconfig.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-2-meltemcandan\PatikaDev\PatikaDev.Odev2ConsoleApp\obj\Debug\net5.0\ref\PatikaDev.Odev2ConsoleApp.dll

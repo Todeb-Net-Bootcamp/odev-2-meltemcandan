@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PatikaDev.Odev2ConsoleApp/1.0.0": {
+        "runtime": {
+          "PatikaDev.Odev2ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaDev.Odev2ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
